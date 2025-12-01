@@ -50,6 +50,7 @@ require_once '../login/aurthenticate.php';
             <input type="text" id="email" name="email" required><br><br>
             <label for="password">Password:</label>
             <input type="password" id="password" name="password" required><br><br>
+            <a href="#">¿Olvidaste la contraseña?</a>
             <input type="submit" value="Login">
         </form>
     </div>
