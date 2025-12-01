@@ -1,5 +1,5 @@
 <?php
-
+// Agregar al repositorio
 
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
     if(!isset($_POST['email']) || !isset($_POST['password'])) {
