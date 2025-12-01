@@ -1,6 +1,7 @@
 <?php
 // Agregar al repositorio
 
+// login/aurthenticate.php
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
     if(!isset($_POST['email']) || !isset($_POST['password'])) {
         echo " - Faltan campos de entrada.";
