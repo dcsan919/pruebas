@@ -10,7 +10,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = $_POST['email'];
     $password = $_POST['password'];
 
-    if($email === 'cendavid919@gmail.com' && $password === '12345') {
+    if($email === 'cendavid919@gmail.com' && $password === 'adbc1234') {
         echo " - Autenticación exitosa.";
     } else {
         echo " - Credenciales incorrectas.";
