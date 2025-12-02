@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>Hola, mundo!</h1>
+    <p>Bienvenido a la página de inicio de carga.</p>
+    <p>holas</p>
+    <span>sis</span>
 </body>
 </html>
